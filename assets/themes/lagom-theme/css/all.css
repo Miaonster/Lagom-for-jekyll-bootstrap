@@ -1,0 +1,9 @@
+---
+---
+
+{% include themes/lagom-theme/css/font-awesome.css %}
+{% include themes/lagom-theme/css/base.css %}
+{% include themes/lagom-theme/css/skeleton.css %}
+{% include themes/lagom-theme/css/screen.css %}
+{% include themes/lagom-theme/css/layout.css %}
+{% include themes/lagom-theme/css/syntax.css %}

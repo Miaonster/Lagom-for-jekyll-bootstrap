@@ -1,0 +1,20 @@
+<nav>
+  <h1>Hi.</h1>
+  <a href="/">
+    <img src="{{ ASSET_PATH }}/logo.png" id="logo" alt="Blog logo"/>
+  </a>
+  <h2>I'm <a href="/">{{ site.author.name }}</a>.</h2>
+  <hr/>
+  <ul>
+    <p>{{ site.theme.title || site.title }}</p>
+  <p>
+  {{ site.theme.tagline || site.tagline }}
+  </p>
+  <hr/>
+  <div>
+    <div id="social">
+      {% include themes/lagom-theme/social.html %}
+    </div>
+  </div>
+  </ul>
+</nav>
