@@ -1,4 +1,3 @@
-lagom-theme
-===========
+# Lagom Theme
 
-A jekyll bootstrap theme version of lagom.
+Lagom-Theme is a jekyll-boostrap version of [lagom](https://github.com/swanson/lagom).
