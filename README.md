@@ -1,6 +1,8 @@
 # Lagom for Jekyll-boostrap
 
-Lagom-for-jekyll-bootstrap is a jekyll-boostrap version of [lagom](https://github.com/swanson/lagom). It's a theme for jekyll-boostrap, you can install it easily.
+Lagom-for-jekyll-bootstrap a theme for jekyll-boostrap, you can install it easily.
+
+Lagom-for-jekyll-bootstrap is a jekyll-boostrap version of [lagom](https://github.com/swanson/lagom), which is a theme of jekyll.
 
 ### Installation
 
@@ -11,3 +13,7 @@ Now you have a jekyll-bootstrap blog site, run code below to install lagom-theme
 ```
 rake theme:install git="https://github.com/Witcher42/lagom-for-jekyll-bootstrap"
 ```
+
+### How to install jekyll-bootstrap?
+
+* Tutorials: [http://jekyllbootstrap.com/usage/jekyll-quick-start.html](http://jekyllbootstrap.com/usage/jekyll-quick-start.html).
