@@ -1,10 +1,10 @@
-# Lagom for Jekyll-boostrap
+# Lagom for Jekyll-bootstrap
 
 A jekyll-bootstrap theme.
 
 ### Introduction
 
-Lagom-for-jekyll-bootstrap is a jekyll-boostrap theme for [lagom](https://github.com/swanson/lagom), which is a theme of jekyll.
+Lagom-for-jekyll-bootstrap is a jekyll-bootstrap theme for [lagom](https://github.com/swanson/lagom), which is a theme of jekyll.
 
 ### Installation
 
