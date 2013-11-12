@@ -13,7 +13,7 @@ Make sure you're using [jekyll-bookstrap](http://jekyllbootstrap.com/), and you 
 Now you have a jekyll-bootstrap blog site, run code below to install lagom-theme.
 
 ```
-rake theme:install git="https://github.com/Witcher42/Lagom-for-jekyll-bootstrap"
+rake theme:install git="git@github.com:Witcher42/Lagom-for-jekyll-bootstrap.git"
 ```
 
 ### Miscellaneous
