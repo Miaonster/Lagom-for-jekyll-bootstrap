@@ -33,10 +33,11 @@
 
     <div class="eleven columns content">
       <div id="post">
+        {% if page.date == null %}
         <h2><i class="icon-bookmark"></i> Blog Posts</h2>
+        {% endif %}
         {{ content }}
       </div>
-    
       <div class="footer">
         {% include themes/lagom-theme/footer.html %}
       </div>
