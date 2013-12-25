@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-  font-size: 16px;
+  font-size: 14px;
   background-color: white;
   color: #222222;
   line-height: 24px;
@@ -19,25 +19,32 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
   font-family: "open sans", sans-serif;
-  font-weight: 600;
+  font-weight: bold;
+  margin-top: 20px;
 }
+
+h1 { font-size: 38px; }
+h2 { font-size: 26px; }
+h3 { font-size: 23px; }
+h4 { font-size: 18px; }
+h5 { font-size: 15px; }
+h6 { font-size: 15px; }
 
 h1.title {
   font-weight: 800;
 }
 
+
+
 h1 {
-  font-size: 32px;
-  line-height: 40px;
+  line-height: 48px;
 }
 
 h2 {
-  font-size: 24px;
-  line-height: 30px;
+  line-height: 36px;
 }
 
 h3 {
-  font-size: 21px;
   line-height: 24px;
   margin: 1em 0;
 }
@@ -121,19 +128,20 @@ nav hr {
 
 #post pre {
   border: 1px solid #ddd;
-  background-color: #fdf6e3;
-  padding: 0 .4em;
+  background-color: #f8f8f8;
+  padding: 6px 10px;
   margin-bottom: 20px !important;
+  margin-top: 20px;
 }
 
 #post ul,
 #post ol {
-  /*margin-left: 1.35em;*/
+  margin-left: 1.35em;
 }
 
 #post code {
+  background-color: #f8f8f8;
   border: 1px solid #ddd;
-  background-color: #fdf6e3;
   font-size: 85%;
   padding: 0 .2em;
 }
@@ -156,7 +164,7 @@ nav hr {
 }
 
 .content {
-  font: 400 16px/22px "open sans", sans-serif;
+  font: 400 14px/22px "open sans", sans-serif;
   border-left: 1px solid #DDD;
   padding-left: 40px;
   padding-top: 25px;

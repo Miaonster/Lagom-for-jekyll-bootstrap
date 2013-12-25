@@ -11,7 +11,13 @@
   {{ content }}
 </div>
 
-<div id="related">
+<hr>
+
+{% include JB/comments %}
+
+<div style="margin-bottom: 20px; min-height: 1px;"></div>
+
+<!--<div id="related">
   <h3>Related Posts</h3>
   <ul class="posts">
     {% for post in site.related_posts limit:3 %}
@@ -20,4 +26,4 @@
     </li>
     {% endfor %}
   </ul>
-</div>
+</div>-->
